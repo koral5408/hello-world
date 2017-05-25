@@ -85,3 +85,6 @@ ___
 例如，[百度](http://www.baidu.com "百度连接")
 
 ### 参考连接就是使用标签的形式格式为 \[百度\]\[baidu\] ，其中\[baidu\] 在文件任意位置定义 \[baidu\]: http://www.baidu.com "百度连接"
+[baidu]: http://www.baidu.com "百度连接"
+参考连接 [百度][baidu]
+
