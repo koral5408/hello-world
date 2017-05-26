@@ -82,7 +82,7 @@ ___
 参考连接 [百度][baidu]
 
 ## 图片
-### markdown 中使用的图片使用和超链接类似的方式来插入，在前面家一个!(感叹号 “标题”)，即\!\[闯荡世界\]\(http://v1.qzone.cc/pic/201310/02/14/51/524bc27b92ff0862.jpg!600x600.jpg\)
-![闯荡世界](http://v1.qzone.cc/pic/201310/02/14/51/524bc27b92ff0862.jpg!600x600.jpg "开始闯荡世界")
+### markdown 中使用的图片使用和超链接类似的方式来插入，在前面家一个!(感叹号 “标题”)，即\!\[闯荡世界\]\(http://c1.mifile.cn/f/i/17/mi6/index/photos-group03_1.jpg\)
+![闯荡世界](http://c1.mifile.cn/f/i/17/mi6/index/photos-group03_1.jpg "开始闯荡世界")
 
 ### 图片也可以使用参考索引
