@@ -115,8 +115,8 @@ _   底线
 !   惊叹号
 ```
 # 9、表格
-markdown中可以使用表格
-语法格式如下
+markdown中可以使用表格   
+语法格式如下    
 |head1 head1 head1|head2 head2 head2|head3 head3 head3|head4 head4 head4|   
 |---|:---|:---:|---:|   
 |row1text1|row1text3|row1text3|row1text4|   
