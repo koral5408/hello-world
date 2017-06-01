@@ -126,6 +126,11 @@ markdown中可以使用表格
 第一行的|之前不要多于4个字符   
 冒号表示该列的对齐方式   
 
+|head1 head1 head1|head2 head2 head2|head3 head3 head3|head4 head4 head4|   
+|---|:---|:---:|---:|   
+|row1text1|row1text3|row1text3|row1text4|   
+|row2text1|row2text3|row2text3|row2text4| 
+
 # 10、换行
 要实现换行，需要在行后面添加空格，空格数不低于4个，或者使用两个tab制表符
 
