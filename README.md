@@ -117,17 +117,17 @@ _   底线
 # 9、表格
 markdown中可以使用表格
 语法格式如下
-|head1 head1 head1|head2 head2 head2|head3 head3 head3|head4 head4 head4|
-|---|:---|:---:|---:|
-|row1text1|row1text3|row1text3|row1text4|
-|row2text1|row2text3|row2text3|row2text4|
+|head1 head1 head1|head2 head2 head2|head3 head3 head3|head4 head4 head4| 
+|---|:---|:---:|---:| 
+|row1text1|row1text3|row1text3|row1text4| 
+|row2text1|row2text3|row2text3|row2text4| 
 
-第一行之前要有一个空行
-第一行的|之前不要多于4个字符
-冒号表示该列的对齐方式
+第一行之前要有一个空行   
+第一行的|之前不要多于4个字符 
+冒号表示该列的对齐方式 
 
-# 10、从ubuntu中进行修改
-测试本地进行修改，然后上传到github上去
+# 10、换行
+要实现换行，需要在行后面添加空格
 
 # 11、非常有意思，从github的服务器上进行修改，在此下载到本地
 更新到ubuntu上，不是克隆，而是再重新更新一下
